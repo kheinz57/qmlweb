@@ -4,10 +4,10 @@
   "description": "QML port to Javascript",
   "author": "michael@unetresgrossebite.com",
   "dependencies": {
-    "gulp": "~3.6.0",
-    "gulp-concat": "~2.1.7",
-    "gulp-util": "~2.2.14",
-    "gulp-uglify": "~0.2.1",
+    "gulp": "~3.8.7",
+    "gulp-concat": "~2.4.3",
+    "gulp-util": "~3.0.8",
+    "gulp-uglify": "~0.3.2",
     "gulp-rename": "",
     "event-stream": "",
     "gulp-jasmine-phantom": ""

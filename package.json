@@ -7,7 +7,7 @@
     "gulp": "~3.8.11",
     "gulp-concat": "~2.4.3",
     "gulp-util": "~3.0.1",
-    "gulp-uglify": "~0.3.2",
+    "gulp-uglify": "~1.3.0",
     "gulp-rename": "",
     "event-stream": "",
     "gulp-jasmine-phantom": ""

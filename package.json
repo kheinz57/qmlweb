@@ -4,7 +4,7 @@
   "description": "QML port to Javascript",
   "author": "michael@unetresgrossebite.com",
   "dependencies": {
-    "gulp": "~3.8.11",
+    "gulp": "~5.0.0",
     "gulp-concat": "~2.4.3",
     "gulp-util": "~3.0.1",
     "gulp-uglify": "~0.3.2",
